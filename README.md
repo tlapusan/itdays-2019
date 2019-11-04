@@ -9,9 +9,8 @@ In this workshop you will have a short introduction to Apache Spark, its archite
 Workshop tools : Apache Spark, Python 3.7, Jupyter Notebook
 
 How to install :
-- clone the repo : https://github.com/tlapusan/itdays-2019.git (recommended to use an virtual environment)
+- clone the repo : https://github.com/tlapusan/itdays-2019.git (recommended to use a [virtual environment](https://realpython.com/python-virtual-environments-a-primer/))
 - install all dependencies : pip install -r requirements.txt 
-- start jupyter, from project root directory run './venv/bin/jupyter notebook'
+- start [jupyter](https://jupyter.org/), from project root directory run './venv/bin/jupyter notebook'
 - the notebook can be found at 'notebooks/bigdata/notebooks/Spark-SQL.ipynb'
-
 
